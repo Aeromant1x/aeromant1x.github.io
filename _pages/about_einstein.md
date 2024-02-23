@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an undergraduate student in the L&S Honors Program majoring in [Pure Mathematics](https://math.wisc.edu/) and [Philosophy](https://philosophy.wisc.edu/) at the [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/Sifting_and_winnowing), where my advisor is [Prof. Alexander Roberts](http://alexanderjroberts.com/). Before that, I graduated from [Hangzhou No.4 High School](https://en.wikipedia.org/wiki/Hangzhou_No._4_High_School) Cambridge A-Level Centre.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am primarily interested in jurisprudence, especially in specific metaphysical, epistemological, and moral questions that emerge when the law is actually applied. 
