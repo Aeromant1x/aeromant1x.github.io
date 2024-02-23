@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mingjiedu.github.io/sitemap.xml
+Sitemap: https://aeromant1x.github.io/sitemap.xml
